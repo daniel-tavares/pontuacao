@@ -1,0 +1,39 @@
+.formPesquisa{
+	width: 716px;
+	margin:0 auto;
+	margin-top:50px; 
+	background-color: #f5f5f5;
+	padding:20px;
+	
+}
+
+.resultadoPesquisa{
+	width: 700px;
+	margin:0 auto;
+	margin-top:50px; 
+}
+
+.form-group, .form-control, .btn{
+ 	margin-left: 10px;	
+}
+
+
+
+/* Loading */
+
+.spinner {
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    margin-left: -50px; 
+    margin-top: -50px; 
+    text-align:center;
+    z-index:1234;
+    overflow: auto;
+    width: 100px;
+    height: 102px; 
+}
+
+img#img-spinner {
+    width: 84px;
+}
