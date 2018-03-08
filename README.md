@@ -1,3 +1,3 @@
 # pontuacao
 
-Projeto Java com SpringMV e Ajax
+Projeto Java com SpringMVC e Ajax
